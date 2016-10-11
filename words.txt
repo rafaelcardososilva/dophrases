@@ -1,0 +1,67 @@
+Yandex
+KEY Translate
+trnsl.1.1.20161006T201314Z.7f3e6c570406bdf7.638dc44c7d2e99f528c321047802611f80a5f529
+
+URL example:
+https://translate.yandex.net/api/v1.5/tr.json/translate?key=trnsl.1.1.20161006T201314Z.7f3e6c570406bdf7.638dc44c7d2e99f528c321047802611f80a5f529&text=This%20land%20of%20unbroken%20spirit%20is%20also%20rife%20with%20Old%20West%20saloons%20and%20ghost%20towns.&lang=en-pt
+
+KEY dictionary
+dict.1.1.20161006T202320Z.8a3d3fe123eb452d.744c5e4226ea97da3065231db2582c0655add1a0
+
+unbroken
+The Giants' winning streak remained unbroken for an impressive 19 games. 
+Série de vitórias dos Giants permaneceu intacta por uns impressionantes 19 jogos.
+(intacto / inteiro)
+
+harassment
+
+shape
+windowless
+underneath
+taped
+mortified
+flotsam
+heartbreak
+catty
+uncouth
+excruciating
+unbearable
+dire
+freshman
+gutted
+pain
+reliving
+feared
+rescue
+senseless
+slut-shamming
+staggering
+enhanced 
+uncontained
+stab
+stockade
+growth
+lifespan of forever
+plastered
+price tag
+measures
+profit
+ruthlessly
+gossip 
+all the while
+harassment
+symptom
+freedoms
+the shift begans
+long-held
+i quote
+empathy from my family
+foster
+upstander
+abate
+counteract
+acknowledge
+superhighway
+headline
+suffering
+deserve 
