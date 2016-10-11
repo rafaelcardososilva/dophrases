@@ -25,6 +25,8 @@ $(function(){
 
 	function getPhrase(word){
 
+		document.activeElement.blur();
+
 		// clear result
 		$(".result").html("");
 
@@ -32,7 +34,7 @@ $(function(){
 		$(".spinner").show();
 		
 		$.ajax({
-			url: "index.php",
+			url: "api.php",
 			type: "POST",
 	        data:{
 	        	url: "http://www.dictionary.com/browse/"+word
@@ -64,7 +66,7 @@ $(function(){
 		var key = "trnsl.1.1.20161006T201314Z.7f3e6c570406bdf7.638dc44c7d2e99f528c321047802611f80a5f529";
 
 		$.ajax({
-			url: "index.php",
+			url: "api.php",
 			type: "POST",
 	        data:{
 	        	url: "https://translate.yandex.net/api/v1.5/tr.json/translate?key="+key+"&text="+phrase+"&lang=en-pt"
